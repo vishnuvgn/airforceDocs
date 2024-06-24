@@ -1,0 +1,46 @@
+**PDF Information Extraction Request:**
+
+Please analyze the provided PDF document and extract the following pieces of information. If you don't find the answer to a section, try again. Format the output neatly and structured under each respective heading.
+
+
+1. **Name:**
+   - Extract the name of the document.
+
+2. **Date:**
+   - Extract the date associated with the document.
+
+3. **Format:**
+   - Identify the format of the document (e.g., report, article, paper).
+
+4. **Calculated Title:**
+   - Calculate and provide a suitable title for the document based on its content.
+
+5. **Key Words:**
+   - List key words associated with the document.
+
+6. **People (Authors, Citations):**
+   - Extract names of authors and individuals cited in the document.
+
+7. **People (Mentioned, Connected):**
+   - Extract names of people mentioned or connected to the document.
+
+8. **People (Titles, Roles):**
+   - Extract titles and roles of people mentioned in the document.
+
+9. **Tag Line, Hashtags:**
+   - Extract the tag line and any hashtags associated with the document.
+
+10. **Companies:**
+    - List any companies mentioned in the document.
+
+11. **Short Description:**
+    - Provide a short description of the document.
+
+12. **Long Description (Abstract):**
+    - Extract the abstract or provide a long description of the document.
+
+13. **Pages / Source:**
+    - Indicate where in the document the information is found, and provide an excerpt for each piece of information.
+
+14. **Department, Agency, Organization, etc.:**
+    - Extract names of any departments, agencies, or organizations mentioned in the document.
