@@ -40,4 +40,7 @@ query_engine = vector_index.as_query_engine(llm=llm, similarity_top_k=20)
 
 response = query_engine.query(open('prompt.txt').read())
 
+with open('contents.txt', 'w') as f:
+    f.write(str(response))
+
 print(response)
