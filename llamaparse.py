@@ -29,7 +29,6 @@ def get_text_nodes(json_list: list[dict]):
     return text_nodes
 
 
-
 # json_objs = parse('docs/3/Admissions, curriculum, and diversity of thought at the military service academies : hearing before .pdf') ## <-- PATH
 json_objs = json.load(open('output.json', 'r'))
 
